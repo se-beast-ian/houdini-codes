@@ -1,6 +1,12 @@
 # houdini-codes
 Like a barn, except it houses houdini tools, python scripts and other nonsense. 
 
+### vops/windbraker
+Evaluates the velocity of a particle and depending on the proximity to a guide 
+vector field, it absorbs the potential velocity and slowly blends it in 
+it's own velocity. 
+
+
 ### Set parameters to selected nodes
 In this example, 4 camera nodes are selected and their iconsize parameter is set to 50
 ```python
