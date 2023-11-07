@@ -1,7 +1,7 @@
 # houdini-codes
 Like a barn, except it houses houdini tools, python scripts and other nonsense. 
 
-### vops/windbraker
+### [vops/windbraker](https://github.com/se-beast-ian/houdini-codes/tree/main/vops/windbraker)
 Evaluates the velocity of a particle and depending on the proximity to a guide 
 vector field, it absorbs the potential velocity and slowly blends it in 
 it's own velocity. 
